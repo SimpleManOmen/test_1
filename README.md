@@ -1,2 +1,3 @@
 # test_1
-    new note
+Sailing is fun
+
